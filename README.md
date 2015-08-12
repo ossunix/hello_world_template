@@ -20,10 +20,10 @@ add your own. These are just to get you started.
 ##### What are the directories for ?
 
 Directory   |   What for ?
---          |   ---
-doc  	    |   Here be the docs.
+-------     |   --------
+doc  	      |   Here be the docs.
 include     |   Here be the header(.h) files.
-src 	    |   Here be the source(.c) files.
+src 	      |   Here be the source(.c) files.
 src/obj     |   Here the compiler puts object files.
 lib         |   Here be the local libraries.
 data        |   Here be some data for your program. 	 
