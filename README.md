@@ -1,4 +1,4 @@
-Simple C program template
+Simple C project template
 ===============================
 
 This is a little template for compiling C programs, that I use
