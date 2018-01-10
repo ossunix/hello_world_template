@@ -1,9 +1,6 @@
 /**
  *	Hello World program
  *
- *	@created 
- *	@author
- *
  *	The MIT License (MIT)
  *
  *	Copyright (c) <year> <copyright holders>
@@ -26,13 +23,10 @@
  */
 
 #include <stdio.h>
-#include <example.h>
-#include <glib.h>
-
 
 int main()
 {
-	example_printf("Hello world\n");
+	printf("Hello world\n");
 
 	return 0;
 }
